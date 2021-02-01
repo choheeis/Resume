@@ -38,6 +38,8 @@
 
 * __꾸준한 습관 관리 및 동기 부여 제공을 위해 '습관빵을 굽는 제빵사'를 모토로 브랜딩화 한 어플리케이션__
 
+* [Google Play Store 다운로드](https://play.google.com/store/apps/details?id=com.habitbread.main)
+
 * IT 동아리 Prography 6기 활동 중 진행한 프로젝트
 
 * 기간
@@ -76,8 +78,6 @@
         달력의 각 일자에 이미지를 표시하여 습관 달성 표시 기능을 구현했습니다.
 
         달력은 외부 라이브러리를 사용했는데 github 리드미에 각 일자에 이미지 표시하기에 관한 내용이 없었습니다. 라이브러리 모든 파일을 확인하여 결국 관련 함수를 찾아내 구현하였습니다.
-
-* [Google Play Store 다운로드](https://play.google.com/store/apps/details?id=com.habitbread.main)
 
 <br></br>
 
@@ -168,6 +168,8 @@
 ### [서울과학기술대학교 전화번호부 앱](https://github.com/choheeis/Seoultech_PhoneBook)
 
 * __서울과학기술대학교 교내 부서 전화번호를 제공하는 어플리케이션__
+
+* [Google Play Store 다운로드](https://play.google.com/store/apps/details?id=com.kimchohee.fragmenttest&hl=ko)
 
 * 모바일 앱 프로그래밍 수업에 참여하여 제출한 프로젝트
 
