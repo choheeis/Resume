@@ -1,5 +1,7 @@
 # Resume
 
+<img width="200" alt="52" src="https://user-images.githubusercontent.com/31889335/107122025-d58dd980-68d8-11eb-9590-3b532d701fec.png">
+
 안녕하세요 🙇🏻‍♀️ 
 
 안드로이드 개발자로 취업 준비를 하고 있는 __김초희__ 입니다.
