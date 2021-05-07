@@ -196,6 +196,12 @@
 
 ## Activities
 
+### [2021 우리은행 블루아워 온택트 해커톤]()
+
+* 기간 : 2021.04.30 ~ 2021.05.04 (4박 5일)
+* 팀원 : 서버 개발자 2명, 프론트(react) 개발자 2명
+* 성과 : [NFT를 활용한 소셜 커머스 플랫폼 Hippy 개발](https://github.com/woori-hippy), 장려상
+
 ### [Prography 6기/6.5기](http://prography.org/)
 
 * 기간 : 2020.04 ~ ing(9개월)
@@ -216,14 +222,23 @@
 * 활동 : [안드로이드 파트 스터디 참여](https://github.com/choheeis/SOPT_25)
 * 성과 : SOPT 내 경선 대상, [인턴즈](https://github.com/INTENRZ/Android_INTERNZ) 개발
 
+### [AUSG 3기](https://velog.io/@ausg)
+
+* 기간 : 2019.07 ~ ing
+* 활동 : [그룹 내 스터디 활동]()
+
 ### [Blog](https://choheeis.github.io/newblog//)
 
-* 기간 : 2019.02 ~ ing(2년)
+* 기간 : 2019.02 ~ ing
 * 활동 : C / C++ / Algorithm / OS / 자료구조 / Conference / Books / Android / Kotlin / Database 등 공부한 내용 공유 및 정리
 * 성과 : (2020.12.15 기준) 구글 총 노출 수 1480건, 클릭 수 147건 달성
 
 ## Prizes
 
+* __2021 우리은행 블루아워 온택트 해커톤 장려상__
+    * 수상년도 : 2021.05.07
+
 * __대학생 IT 동아리 SOPT 내 경선 대상__
     * 수상년도 : 2020.01.18
 
+마지막 수정일 : 2021/05/07
