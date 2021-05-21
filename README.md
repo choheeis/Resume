@@ -6,7 +6,7 @@
 
 안드로이드 개발자 __김초희__ 입니다.
 
-현재는 __Kotlin__ 과 __Jetpack__, __Android Clean Architecture__ 에 관심을 가지고 공부하고 있습니다.
+__프로그래밍 언어 Kotlin__ 과 __[Android Architecture](https://github.com/android/architecture-components-samples)__ 에 관심이 많고 꾸준히 공부하고 있습니다.
 
 * Email : chchgml10@gmail.com
 * [Github](https://github.com/choheeis)
@@ -27,12 +27,7 @@
   * C++
   
 * Framework/Library
-  * Android Platform
-  * Firebase Cloud Messaging(FCM)
-  * Retrofit2
-  
-* Architecture/Design Pattern  
-  * Android Clean Architecture
+  * Android Framework
 
 ## Projects
 
